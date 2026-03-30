@@ -1,5 +1,5 @@
--- Questions to be asked before we are connecting the source system with the data warehouse system.
-/*
+Questions to be asked before we are connecting the source system with the data warehouse system.
+
 # BUSINESS CONTEXT & OWNERSHIP
 1. Who owns the data?
 2. What business process it supports? Like the customer transactions or supply chain logistics or may be finance reporting
@@ -19,4 +19,3 @@ data in seamless joining of tables
 4. Any Data voulume limitations?
 5. How to avoid impacting the source system's performance? (Important to make sure that we are not bring down the performance of the DB)
 6. Authentication and Authorization. How we are going to access the data in the source system? (tokens, SSH keys, VPN, IP whitelisting etc.)
-*/
