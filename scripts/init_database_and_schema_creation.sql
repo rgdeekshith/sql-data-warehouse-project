@@ -41,7 +41,3 @@ GO
 
 CREATE SCHEMA gold;
 GO
-
-/*
-Credits: Data With Baraa - https://www.youtube.com/watch?v=9GVqKuTVANE&t=324s
-*/
