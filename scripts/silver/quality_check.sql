@@ -408,4 +408,6 @@ SELECT
 cat, subcat, maintenance
 FROM bronze.erp_px_cat_g1v2
 WHERE cat != TRIM(cat) OR subcat != TRIM(subcat) OR maintenance != TRIM(maintenance); -- No unwanted spaces
+
+-- Data quality for this table is very good and hence no enhancements made in the query
 ==============================================================================
