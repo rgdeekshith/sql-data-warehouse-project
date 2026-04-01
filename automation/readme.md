@@ -62,7 +62,6 @@ python automation/run_pipeline.py
 ```
 
 **🔄 How It Works**
-Connection
 Python uses pyodbc and python-dotenv to connect securely to your SQL Server instance.
 
 **Database Initialization**
