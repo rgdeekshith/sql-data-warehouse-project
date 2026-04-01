@@ -33,7 +33,7 @@ Before running the project, make sure you have the following installed:
 1. Microsoft SQL Server (local instance or development server)
 2. Python 3.x
 3. Microsoft ODBC Driver 17 for SQL Server
----
+
 **📦 Installation:**
 Install the required Python packages:
 
